@@ -512,7 +512,6 @@ Le résultat final est un projet lisible, commenté, structuré et suffisamment 
 
 ---
 
-## Auteur
 
 Projet réalisé dans le cadre d'un exercice de Ruby / POO / manipulation de fichiers de données. 
 
