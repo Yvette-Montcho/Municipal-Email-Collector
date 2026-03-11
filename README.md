@@ -514,11 +514,6 @@ Le résultat final est un projet lisible, commenté, structuré et suffisamment 
 
 ## Auteur
 
-Projet réalisé dans le cadre d'un exercice de Ruby / POO / manipulation de fichiers de données.
+Projet réalisé dans le cadre d'un exercice de Ruby / POO / manipulation de fichiers de données. 
 
-Tu peux compléter cette section avec :
-
-- ton nom ;
-- la formation ;
-- la date ;
-- le nom exact du rendu demandé.
+Formation Fullstack Web avec ETP4Africa
